@@ -4,6 +4,10 @@
 	"service": "project",
 	"workspaceFolder": "/workspaces",
 	"remoteUser": "vscode",
+	"mounts": [
+		"type=bind,source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/home/vscode/.ssh,readonly",
+		"type=bind,source=${localEnv:HOME}${localEnv:USERPROFILE}/.gnupg,target=/home/vscode/.gnupg,readonly"
+	],
 	"postCreateCommand": "bash .devcontainer/scripts/post-create.sh",
 	"postStartCommand": "bash .devcontainer/scripts/post-start.sh",
 	"customizations": {
@@ -18,7 +22,8 @@
 				"GitHub.copilot-chat",
 				"ms-vsliveshare.vsliveshare",
 				"GitHub.vscode-pull-request-github",
-				"github.vscode-github-actions"
+				"github.vscode-github-actions",
+				"redhat.vscode-yaml"
 			],
 			"settings": {
 				"[python]": {
