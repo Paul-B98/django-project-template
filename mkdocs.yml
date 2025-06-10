@@ -9,7 +9,7 @@ nav:
   # - User Guide:
   - API Reference: reference/
 
-copyright: Copyright &copy; 2023 Paul-B98
+copyright: Copyright &copy; 2023 Paul-B98 # TODO change this to your name
 
 theme:
   name: material
@@ -56,4 +56,4 @@ plugins:
         python:
           paths: ["project_name"]
           options:
-            docstring_style: numpy
+            docstring_style: google
