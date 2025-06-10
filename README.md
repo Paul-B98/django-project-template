@@ -4,7 +4,7 @@ This is a template for creating Python projects. It includes a basic project str
 
 ## Features
 
-- 📁 Pre-configured with `poetry` for dependency management
+- 📁 Pre-configured with `uv` for dependency management
 - 🪛 Linting with `ruff`
 - 🔧 Type checking with `mypy`
 - 🧪 Testing with `pytest`
