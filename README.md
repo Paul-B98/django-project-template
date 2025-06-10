@@ -10,6 +10,7 @@ This is a template for creating Python projects. It includes a basic project str
 - 🧪 Testing with [pytest](https://docs.pytest.org/en/stable/)
 - 📝 [Pre-commit](https://pre-commit.com/) hooks for code quality
 - 📦 Uses [dev container](https://containers.dev/) development setup
+- 🔎 Easy documentation with [MkDocs](https://containers.dev/)
 
 ## Getting Started
 
