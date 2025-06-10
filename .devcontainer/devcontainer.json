@@ -1,6 +1,6 @@
 {
-	"name": "Python Project",
-	"service": "project",
+	"name": "Python Django",
+	"service": "django",
 	"remoteUser": "vscode",
 	"workspaceFolder": "/workspaces",
 	"dockerComposeFile": "docker-compose.yml",
