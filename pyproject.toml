@@ -35,7 +35,7 @@ pytest-random-order = "^1.2.0"
 [tool.poetry.group.docs.dependencies]
 mkdocs = "^1.6.1"
 mkdocs-material = "^9.7.0"
-pymdown-extensions = "^10.17"
+pymdown-extensions = "^10.18"
 mkdocstrings-python = "^2.0.1"
 mkdocs-macros-plugin = "^1.5.0"
 mkdocs-gen-files = "^0.6.0"
