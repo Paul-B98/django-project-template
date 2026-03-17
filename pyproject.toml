@@ -40,7 +40,7 @@ mkdocstrings-python = "^2.0.3"
 mkdocs-macros-plugin = "^1.5.0"
 mkdocs-gen-files = "^0.6.1"
 mkdocs-literate-nav = "^0.6.3"
-mkdocs-section-index = "^0.3.10"
+mkdocs-section-index = "^0.3.11"
 mkdocs-jupyter = "^0.25.1"
 jupyter = "^1.1.1"
 
