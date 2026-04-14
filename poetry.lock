@@ -1713,14 +1713,14 @@ pyyaml = ">=5.1"
 
 [[package]]
 name = "mkdocs-jupyter"
-version = "0.26.1"
+version = "0.26.2"
 description = "Use Jupyter in mkdocs websites"
 optional = false
 python-versions = ">=3.9"
 groups = ["docs"]
 files = [
-    {file = "mkdocs_jupyter-0.26.1-py3-none-any.whl", hash = "sha256:527242c2c8f1d30970764bbab752de41243e5703f458d8bc05336ec53828192e"},
-    {file = "mkdocs_jupyter-0.26.1.tar.gz", hash = "sha256:7c80c0d3953de91e5b40a0d3209233795c8f800243ab298e4ec38e0504eda630"},
+    {file = "mkdocs_jupyter-0.26.2-py3-none-any.whl", hash = "sha256:5c12f59b14d5cfb79e779c6134b9bb8476ec0544b22097ae2ad31a9ebfc1a693"},
+    {file = "mkdocs_jupyter-0.26.2.tar.gz", hash = "sha256:836167057a911cc7a56496632aee7a9e06ea6b8c2ccb50ed7cbdc9e78847b45c"},
 ]
 
 [package.dependencies]
@@ -3450,4 +3450,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.13"
-content-hash = "943935617994c890be59e1a1a304ac0ba2e9e7bc2da438d5973f766c78384dc3"
+content-hash = "787e5bd66a8d8dc52aa19c03e768f561c2fe635ffad7551b65cee961bd2612fd"
